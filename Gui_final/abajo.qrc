@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="abajo">
+    <file>abajo.png</file>
+  </qresource>
+</RCC>

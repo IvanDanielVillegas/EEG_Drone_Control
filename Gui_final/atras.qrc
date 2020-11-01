@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="atras">
+    <file>atras.png</file>
+  </qresource>
+</RCC>

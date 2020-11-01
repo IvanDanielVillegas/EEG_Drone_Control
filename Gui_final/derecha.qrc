@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="derecha">
+    <file>derecha.png</file>
+  </qresource>
+</RCC>

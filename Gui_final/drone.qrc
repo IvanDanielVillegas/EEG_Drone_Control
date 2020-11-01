@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="drone">
+    <file>Parrot-Mambo.jpg</file>
+  </qresource>
+</RCC>

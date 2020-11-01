@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="arriba">
+    <file>arriba.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="punto_blanco">
+    <file>punto_blanco.jpg</file>
+  </qresource>
+</RCC>
